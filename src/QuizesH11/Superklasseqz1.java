@@ -1,4 +1,4 @@
-package QuizesH11.Quiz1;
+package QuizesH11;
 public class Superklasseqz1 {
 
 }
