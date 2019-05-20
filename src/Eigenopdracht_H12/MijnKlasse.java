@@ -12,5 +12,6 @@ public final class MijnKlasse extends Superklasse {
 		MijnKlasse mk = new MijnKlasse();
 		mk.methodeBrian(6, 4);
 		mk.methodeBrian(8, 2);
+		mk.methodeBrian(12, 14);
 	}
 }
