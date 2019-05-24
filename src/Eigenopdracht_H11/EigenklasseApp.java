@@ -1,16 +1,23 @@
 package Eigenopdracht_H11;
 
 public class EigenklasseApp {
+
 	protected int x = 0;
+
+	@Override
+	public String toString( ){
+		return "EigenklasseApp{" + "x=" + x + ", y=" + y + '}';
+	}
+
 	protected int y = 1;
-	int brianMethode(int i)
-	{
+
+	int brianMethode(int i) {
 		System.out.println("Getallen: ");
 		for(int i2 = 0; i2 < 10; i2++) {
 			x += 1;
 			y += 2;
 			System.out.println(x +"," + y);
-	}
+		}
 		return i;
 	}
 }
