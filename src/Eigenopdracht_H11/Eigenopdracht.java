@@ -5,7 +5,7 @@ public class Eigenopdracht extends EigenklasseApp{
 	
 	int mijnMethodeBrian(int y, int x)
 	{
-		return mijnMethode(y) + x + y;
+		return brianMethode(y) + x + y;
 	}
 	public static void main (String [] args) {
 		Eigenopdracht eo = new Eigenopdracht();
