@@ -1,18 +1,16 @@
-Vragen Hoofdstuk 11:
-
 1 Wat houdt het begrip Extends in?
 A Met extends kun je een klasse veranderen in een andere klasse.
 B Met extends kun je een klasse hergebruiken en verlengen. 
 C Dat je een andere klasse aanroept.
 D Dat je een klasse exporteert.
 
-2 Hoe noem je het als de subklasse het gedrag van de superklasse overschrijft.
+2 Hoe noem je het als de subklasse het gedrag van de superklasse overschrijft en die kan erven en wijzigen.
 A Overwriting
 B Overriding
 C Overloading
 D Prevailing
 
-3 Waarn staat overloading voor?
+3 Waar staat overloading voor?
 A De mogelijkheid om dezelfde methodenaam te hergebruiken zo vaak als het nodig is.
 B De mogelijkheid om methodes over te schrijven.
 C De mogelijkheid om de gegevens in andere klasses te overloaden vanuit één klasse.
@@ -22,8 +20,12 @@ A extend
 B super 
 C superklasse extend
 D super add
+
 5 Welke statement is juist?
 A Public class Superklasse extends Subklasse{}
 B Public class Subklasse extends Super{}
 C Public class Subklasse extends Superklasse{}
 D Public class Subklasse extends Superklasse(Subklasse){}
+
+Antwoorden:
+1B 2B 3A 4B 5A
