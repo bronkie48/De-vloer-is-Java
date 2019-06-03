@@ -12,9 +12,9 @@ public class Eigenopdracht extends EigenklasseApp{
 	int mijnMethodeBrian(int y, int x) {
 		return brianMethode(y) + x + y;
 	}
-	
+
 	void thomasMethode(char c) {
 		return;
-		} 
-	}
+	} 
+}
 

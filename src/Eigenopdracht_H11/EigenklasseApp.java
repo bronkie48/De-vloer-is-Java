@@ -24,6 +24,6 @@ public class EigenklasseApp {
 		System.out.println("\nAscii getallen:");
 		for (int c=32; c<128; c++) {
 			System.out.println(c + ": " + (char)c);
-		} 
+		}
 	}
 }
