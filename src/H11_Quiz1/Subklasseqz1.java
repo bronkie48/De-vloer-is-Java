@@ -1,7 +1,7 @@
 package H11_Quiz1;
 
 public class Subklasseqz1 extends Superklasseqz1
-// met extends creëer je een subclass van de klasse waarin je extends toevoegd.
+// met extends cre?er je een subclass van de klasse waarin je extends toevoegd.
 {
 	private int y = 8;
 	
