@@ -9,5 +9,7 @@ public abstract class MijnAbstract{
 
     abstract int bereken(int x);
 
+    abstract String printNaam(String naam);
+
 
 }

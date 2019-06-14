@@ -9,13 +9,18 @@ public class MijnKlasse extends MijnAbstract{
         return super.x + x;
     }
 
+    @Override
+    String printNaam(String naam){
+        return naam;
+    }
+
     public static void main(String[] args){
         MijnKlasse mk = new MijnKlasse();
         System.out.print(mk.bereken(4));
     }
 
     /*
-        Welke statements zijn waar?
+
 
      */
 }

@@ -28,4 +28,4 @@ C Public class Subklasse extends Superklasse{}
 D Public class Subklasse extends Superklasse(Subklasse){}
 
 Antwoorden:
-1B 2B 3A 4B 5A
+1B 2B 3A 4B 5C
