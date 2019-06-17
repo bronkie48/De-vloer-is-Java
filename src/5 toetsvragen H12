@@ -1,0 +1,29 @@
+1 Welke uitspraak over een final klasse is waar?
+A Een final klasse is een klasse die geen subklasse kan hebben, maar wel zelf een subklasse kan zijn van een andere klasse.
+B Een final klasse is een klasse die een subklasse kan hebben en zelf een subklasse kan zijn van een andere klasse.
+C Een final klasse is een klasse die geen subklasse kan hebben en zelf geen subklasse kan zijn van een andere klasse.
+D Een final klasse is een klasse die een subklasse kan hebben, maar niet zelf een subklasse kan zijn van een andere klasse.
+
+2 Wat kan je WEL toepassen op een final methode?
+A Overerving
+B Overriding
+C Overloading
+D Geen van bovenstaande
+
+3 Hoe kan je een final variabele veranderen?
+A Door de variabele te overriden
+B Door de variabele opnieuw te definiëren
+C Door in de superklasse de final variabele abstract te maken
+D Geen van bovenstaande
+
+4 Met welk sleutelwoord kun je de constructor van een superklasse aan roepen?
+A
+
+5 Welke statement is fout?
+A Public final class Superklasse extends MijnKlasse{}
+B Public final class Subklasse extends MijnKlasse{}
+C Public final class Subklasse extends Superklasse{}
+D Public final class Superklasse extends MijnKlasse{}
+
+Antwoorden:
+1A, 2D, 3D,

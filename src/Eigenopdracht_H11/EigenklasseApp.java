@@ -20,4 +20,10 @@ public class EigenklasseApp {
 		}
 		return i;
 	}
+	void thomasMethode() {
+		System.out.println("\nAscii getallen:");
+		for (int c=32; c<128; c++) {
+			System.out.println(c + ": " + (char)c);
+		}
+	}
 }
