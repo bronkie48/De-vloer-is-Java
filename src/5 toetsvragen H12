@@ -16,14 +16,22 @@ B Door de variabele opnieuw te definiëren
 C Door in de superklasse de final variabele abstract te maken
 D Geen van bovenstaande
 
-4 Met welk sleutelwoord kun je de constructor van een superklasse aan roepen?
-A
+4 Wat is het beste voorbeeld van een final variabele
+A snelheidsAfNamePerSeconde
+B topsnelheid
+C snelheidVanHetLicht
+D huidigeTijd
 
-5 Welke statement is fout?
-A Public final class Superklasse extends MijnKlasse{}
-B Public final class Subklasse extends MijnKlasse{}
-C Public final class Subklasse extends Superklasse{}
-D Public final class Superklasse extends MijnKlasse{}
+5 Welke statements zijn correct?
+
+I. Een variabele kan altijd aangepast worden
+II. Een final variabele kan nooit aangepast worden
+
+A beiden zijn correct
+B I is goed en II is fout
+C II is fout en I is goed
+D beiden zijn incorrect
+
 
 Antwoorden:
-1A, 2D, 3D,
+1A, 2D, 3D, 4C, 5C

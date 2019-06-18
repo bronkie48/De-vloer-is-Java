@@ -16,7 +16,7 @@ B De mogelijkheid om methodes over te schrijven.
 C De mogelijkheid om de gegevens in andere klasses te overloaden vanuit één klasse.
 
 4 Met welk sleutelwoord kun je de constructor van een superklasse aan roepen?
-A extend 
+A extends
 B super 
 C superklasse extend
 D super add
