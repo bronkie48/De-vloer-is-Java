@@ -9,6 +9,5 @@ public class MijnKlasse extends MijnAbstract{
 	public static void main(String[] args) {
 		MijnKlasse mk = new MijnKlasse();
 		System.out.print(mk.str);
-		
 	}
 }

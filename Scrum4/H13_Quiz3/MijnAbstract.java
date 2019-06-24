@@ -10,7 +10,7 @@ abstract class MijnAbstract{
 		str += str;
 		/*
 		 * door er this.str van te maken wordt er N0L27 geprint in de console
-		 * dit komt omdat dit 0 toevoegd aan de string.
+		 * dit komt omdat dit 0 toevoegd aan de string
 		 */
 	}
 }
