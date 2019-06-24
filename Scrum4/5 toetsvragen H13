@@ -1,1 +1,14 @@
+1 Welke statement is waar?
 
+i Abstracte klassen kunnen gebruikt worden als superklassen, maar hun abstracte methoden kunnen niet worden overschreven in de subklassen.
+ii Abstract methoden hebben geen body.
+
+a i en ii zijn allebei waar
+b i is waar, ii onwaar
+c i is onwaar, ii is waar
+d i en ii zijn onwaar
+
+2 Wat is één van de verschillen tussen een abstract en interface klasse?
+A Een abstracte klasse wel gedefinieerde methoden kan bevatten maar een interface bevat alleen ongedefinieerde methoden.
+B Een abstracte klasse heeft astracte methoden en een interface alleen gewone methoden.
+C Een interface 
