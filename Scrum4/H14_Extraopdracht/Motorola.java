@@ -8,6 +8,7 @@ public class Motorola implements TelefoonInterface
 	
 	public double prijsMetKorting()
 	{
+		// met een boolean wordt gekeken of ie student is of niet.
 		if(isStudent)
 		{
 			korting = 0.25;
