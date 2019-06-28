@@ -1,0 +1,36 @@
+1 Welke statement is waar?
+
+i Abstracte klassen kunnen gebruikt worden als superklassen, maar hun abstracte methoden kunnen niet worden overschreven in de subklassen.
+ii Abstract methoden hebben geen body.
+
+a i en ii zijn allebei waar
+b i is waar, ii onwaar
+c i is onwaar, ii is waar
+d i en ii zijn onwaar
+
+2 Met abstracte klassen kun je objecten maken.
+a waar
+b niet waar
+
+3 Wat kun je niet met een abstracte klasse.
+a Abstracte klasse kan worden geërfd.
+b Abstracte klassen kunnen gebruikt worden als subklassen.
+c Abstracte methoden kunnen worden overschreven in de subklassen.
+d Objecten maken.
+
+4 Wat is de juiste notatie?
+a public class Rechthoek extends abstract Vorm{}
+b public class Rechthoek extends Vorm{}
+c public class Vorm class Vorm extends abstract{}
+d public abstract class extends Vorm{}
+
+5 Een subklasse van een abstracte klasse kan ook abstract gedeclareerd worden.
+A niet waar 
+B waar
+
+Antwoorden:
+1 C
+2 A
+3 D
+4 B
+5 B

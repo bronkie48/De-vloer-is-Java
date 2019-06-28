@@ -1,0 +1,34 @@
+1 Wat is één van de verschillen tussen een abstract en interface klasse?
+  A Een abstracte klasse wel gedefinieerde methoden kan bevatten maar een interface bevat alleen ongedefinieerde methoden.
+  B Een abstracte klasse heeft astracte methoden en een interface alleen gewone methoden.
+  C Een interface bevat methoden een abstracte klasse niet.
+  D Er is niet echt een verschil
+
+2 Welke stelling over Interfaces is NIET waar
+  A Interfaces worden geimplementeerd door klassen met het sleutelwoord implements maar ze worden uitgebreid door andere interfaces met het sleuterlwoord extends.
+  B Als er meer dan één interface wordt geimplementeerd moeten de namen van de interfaces gescheiden zijn door een komma.
+  C Interfaces bieden het voordeel van een meervoudige overerving in java.
+  D Interfaces maken gebruik van constructoren en er kunenn objecten via interfaces worden gemaakt. 
+  
+3 Interfaces hebben geen constructoren en er kunnen geen objecten worden gemaakt.
+  A Waar 
+  B Niet waar
+
+4 i Het is toegestaan dat interface constanten private worden gedeclareerd.
+  ii Het is niet toegestaan om interface constanten protected worden gedeclareerd.
+  
+  a i en ii zijn waar.
+  b i is onwaar, ii is waar
+  c i en ii zijn onwaar
+  d i is waar, ii is onwaar
+  
+5 Alle methoden van interfaces zijn impliciet abstract.
+  a waar  
+  b niet waar
+  
+Goede antwoorden:
+1 A
+2 D
+3 A
+4 B
+5 A
