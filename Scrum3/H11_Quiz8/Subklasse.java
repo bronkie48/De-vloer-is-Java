@@ -9,7 +9,7 @@ public class Subklasse{
 
 
         System.out.println(subK.MijnInt);
-        //System.out.println(subP.MijnInt);
+        //System.out.println(supK.MijnInt);
 
         //subP heeft geen toegang tot MijnInt in de klasse.
     }
